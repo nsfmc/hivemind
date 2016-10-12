@@ -27,3 +27,4 @@ The Long-term Research Hivemind currently runs on Heroku. Ask [Andy](mailto:andy
 1. [Install the Heroku toolbelt](https://toolbelt.heroku.com/).
 2. Add Heroku's remote in your git checkout: `heroku git:remote -a ka-hivemind`
 3. Push your branch to Heroku: `git push origin heroku`
+
